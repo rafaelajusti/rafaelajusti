@@ -6,4 +6,4 @@ Meu nome é Rafaela Justi.
 - Estou me desenvolvendo na linguagem JavaScript.
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-![](https://tenor.com/JC3h.gif)
+![xd](https://tenor.com/JC3h.gif)
